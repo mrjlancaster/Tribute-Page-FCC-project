@@ -3,24 +3,24 @@
     padding: 0;
 }
 
-body{
-
-}
 
 body{
-    padding: 2%;
-    background-color: #bdc3c7;
+    padding: 1%;
 }
 
 header #title{
     text-align: center;
     background-color: #273c75;
     color: #f5f6fa;
-    height: 75px;
+    height: 45px;
     line-height: 45px;
     font-size: 20px;
     padding: 20px;
+    position: relative;
+    top: 20px;
 }
+
+
 
 main{
     text-align: center;
@@ -32,10 +32,13 @@ main{
 
 #img-div{
     background-color: white;
-    padding: 40px 50px 30px 50px; 
+    padding: 60px 80px 40px 80px; 
     margin: 5%;
-    border-radius: 10px;
     line-height: 40px;
+}
+
+img{
+    width: 100%;
 }
 
 
