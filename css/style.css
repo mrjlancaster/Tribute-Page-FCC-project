@@ -63,3 +63,13 @@ img{
     color: #78e08f;
     text-decoration: none;
 }
+
+.link{
+    margin-top: 70px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
